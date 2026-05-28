@@ -4,6 +4,8 @@ A simple Airbnb Clone web application where users can explore property listings,
 
 <img width="1851" height="999" alt="Screenshot From 2026-05-28 13-48-32" src="https://github.com/user-attachments/assets/db55bc1d-7a14-4885-a637-74867f61c5be" />
 
+<img width="1851" height="999" alt="Screenshot From 2026-05-28 13-48-53" src="https://github.com/user-attachments/assets/0410f102-3724-4b7f-b16b-8841d92663a8" />
+
 
 
 ## Features
