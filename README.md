@@ -3,8 +3,6 @@
 A simple Airbnb Clone web application where users can explore property listings, view details, and book stays.
 
 
-<img width="1851" height="999" alt="Screenshot From 2026-05-28 13-48-32" src="https://github.com/user-attachments/assets/68b0c174-5dfd-48aa-915f-ee7feeadcc14" />
-
 
 ## Features
 
